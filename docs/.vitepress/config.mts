@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: '王守云的个人博客',
-  description: '记录学习、项目与思考',
+  description: '聚焦通信、模式识别与信息论，记录学习、项目与思考',
   base: '/my-blog/',
   themeConfig: {
     nav: [
@@ -39,7 +39,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '由 VitePress & GitHub Pages 驱动',
+      message: '由 VitePress 与 GitHub Pages 构建',
       copyright: 'Copyright © 2026 王守云'
     }
   }
