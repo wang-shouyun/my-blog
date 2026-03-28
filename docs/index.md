@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "王守云"
   text: "个人主页 / 学习博客"
-  tagline: "以通信、模式识别与信息论为知识基底，记录学习积累、项目实践、阶段思考与成长轨迹"
+  tagline: "以通信、模式识别与信息论为知识基底，记录学习积累、项目实践、阶段思考与诗歌表达"
   actions:
     - theme: brand
       text: 学习总览
@@ -13,8 +13,8 @@ hero:
       text: 项目实践
       link: /projects/
     - theme: alt
-      text: 关于我
-      link: /about
+      text: 诗歌
+      link: /poetry/
 
 features:
   - icon: 📘
@@ -26,7 +26,7 @@ features:
   - icon: 📝
     title: 思考
     details: 保存学习复盘、方法总结与阶段性反思，把课程、项目与个人成长逐渐连接成一条更清晰的主线。
-  - icon: 🎯
-    title: 方向
-    details: 以保研、科研训练和长期能力提升为主线，让课程学习、项目实践和表达能力相互支撑，逐步形成个人路径。
+  - icon: ✒️
+    title: 诗歌
+    details: 保存自己的诗词创作与鉴赏解释，让理工训练之外的审美追求、历史感和语言探索也拥有位置。
 ---
