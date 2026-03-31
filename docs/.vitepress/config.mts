@@ -28,6 +28,13 @@ export default defineConfig({
             { text: '通信原理', link: '/learning/communication' },
             { text: '模式识别', link: '/learning/pattern-recognition' },
             { text: '模式识别 第一章', link: '/learning/pattern-recognition-chapter1' },
+            { text: '模式识别 第二章', link: '/learning/pattern-recognition-chapter2' },
+            { text: '模式识别 第三章', link: '/learning/pattern-recognition-chapter3' },
+            { text: '模式识别 第四章', link: '/learning/pattern-recognition-chapter4' },
+            { text: '模式识别 第五章', link: '/learning/pattern-recognition-chapter5' },
+            { text: '模式识别 第六章', link: '/learning/pattern-recognition-chapter6' },
+            { text: '模式识别 第七章', link: '/learning/pattern-recognition-chapter7' },
+            { text: '模式识别 总复习', link: '/learning/pattern-recognition-final-review' },
             { text: '信息论', link: '/learning/information-theory' }
           ]
         }
