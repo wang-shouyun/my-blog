@@ -4,6 +4,10 @@ export default defineConfig({
   title: '王守云的个人博客',
   description: '聚焦通信、模式识别与信息论，记录学习、项目、思考、诗歌与成长',
   base: '/my-blog/',
+
+  markdown: {
+    math: true },
+
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
