@@ -23,6 +23,7 @@ export default defineConfig({
             { text: '学习首页', link: '/learning/' },
             { text: '通信原理', link: '/learning/communication' },
             { text: '模式识别', link: '/learning/pattern-recognition' },
+            { text: '模式识别 第一章', link: '/learning/pattern-recognition-chapter1' },
             { text: '信息论', link: '/learning/information-theory' }
           ]
         }

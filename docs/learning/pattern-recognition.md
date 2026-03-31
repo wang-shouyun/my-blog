@@ -2,6 +2,9 @@
 
 这里整理模式识别相关学习内容。
 
+## 章节整理
+- [第一章 绪论（课件版整理）](/learning/pattern-recognition-chapter1)
+
 ## 我准备记录的内容
 
 - 课程整体框架
