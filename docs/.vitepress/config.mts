@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: '王守云的个人博客',
-  description: '聚焦通信、模式识别与信息论，记录学习、项目、思考与成长',
+  description: '聚焦通信、模式识别与信息论，记录学习、项目、思考、诗歌与成长',
   base: '/my-blog/',
   themeConfig: {
     nav: [
@@ -10,6 +10,8 @@ export default defineConfig({
       { text: '学习', link: '/learning/' },
       { text: '项目', link: '/projects/' },
       { text: '思考', link: '/reflections/' },
+      { text: '诗歌', link: '/poetry/' },
+      { text: '资料', link: '/resources/' },
       { text: '关于', link: '/about' }
     ],
 
@@ -40,6 +42,27 @@ export default defineConfig({
           items: [
             { text: '思考首页', link: '/reflections/' },
             { text: '学习方法与复盘', link: '/reflections/study-method' }
+          ]
+        }
+      ],
+      '/poetry/': [
+        {
+          text: '诗歌与鉴赏',
+          items: [
+            { text: '诗歌首页', link: '/poetry/' },
+            { text: '我的诗词', link: '/poetry/my-poems' },
+            { text: '鉴赏与解释', link: '/poetry/appreciation' }
+          ]
+        }
+      ],
+      '/resources/': [
+        {
+          text: '资料导航',
+          items: [
+            { text: '资料首页', link: '/resources/' },
+            { text: '大模型与 AI 开发', link: '/resources/llm' },
+            { text: '项目实战', link: '/resources/projects' },
+            { text: '算法与面试', link: '/resources/interview' }
           ]
         }
       ]
