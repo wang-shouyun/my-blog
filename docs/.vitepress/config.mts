@@ -29,6 +29,7 @@ export default defineConfig({
             { text: '模式识别', link: '/learning/pattern-recognition' },
             { text: '模式识别 第一章', link: '/learning/pattern-recognition-chapter1' },
             { text: '模式识别 第二章', link: '/learning/pattern-recognition-chapter2' },
+            { text: '模式识别 第二章 严格按教材版', link: '/learning/pattern-recognition-chapter2-section-2-1-to-2-6' },
             { text: '模式识别 第三章', link: '/learning/pattern-recognition-chapter3' },
             { text: '模式识别 第四章', link: '/learning/pattern-recognition-chapter4' },
             { text: '模式识别 第五章', link: '/learning/pattern-recognition-chapter5' },
