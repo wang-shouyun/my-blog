@@ -26,6 +26,16 @@ export default defineConfig({
           items: [
             { text: '学习首页', link: '/learning/' },
             { text: '通信原理', link: '/learning/communication' },
+            { text: '通信原理 第一章', link: '/learning/communication-chapter1' },
+            { text: '通信原理 第二章', link: '/learning/communication-chapter2' },
+            { text: '通信原理 第三章', link: '/learning/communication-chapter3' },
+            { text: '通信原理 第四章', link: '/learning/communication-chapter4' },
+            { text: '通信原理 第五章', link: '/learning/communication-chapter5' },
+            { text: '通信原理 第六章', link: '/learning/communication-chapter6' },
+            { text: '通信原理 第七章', link: '/learning/communication-chapter7' },
+            { text: '通信原理 第八章', link: '/learning/communication-chapter8' },
+            { text: '通信原理 第九章', link: '/learning/communication-chapter9' },
+            { text: '通信原理 总复习', link: '/learning/communication-final-review' },
             { text: '模式识别', link: '/learning/pattern-recognition' },
             { text: '模式识别 第一章', link: '/learning/pattern-recognition-chapter1' },
             { text: '模式识别 第二章', link: '/learning/pattern-recognition-chapter2' },
@@ -36,7 +46,17 @@ export default defineConfig({
             { text: '模式识别 第六章', link: '/learning/pattern-recognition-chapter6' },
             { text: '模式识别 第七章', link: '/learning/pattern-recognition-chapter7' },
             { text: '模式识别 总复习', link: '/learning/pattern-recognition-final-review' },
-            { text: '信息论', link: '/learning/information-theory' }
+            { text: '信息论', link: '/learning/information-theory' },
+            { text: '信息论 第一章', link: '/learning/information-theory-chapter1' },
+            { text: '信息论 第二章', link: '/learning/information-theory-chapter2' },
+            { text: '信息论 第三章', link: '/learning/information-theory-chapter3' },
+            { text: '信息论 第四章', link: '/learning/information-theory-chapter4' },
+            { text: '信息论 第五章', link: '/learning/information-theory-chapter5' },
+            { text: '信息论 第六章', link: '/learning/information-theory-chapter6' },
+            { text: '信息论 第七章', link: '/learning/information-theory-chapter7' },
+            { text: '信息论 总复习', link: '/learning/information-theory-final-review' },
+
+
           ]
         }
       ],
